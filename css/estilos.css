@@ -8,12 +8,13 @@ body{
 }
 
 #cabecera{
-    background: #33a;
+    background: #3A4F7A;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
-    color: white;
+    color: #E98EAD;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+    text-align: center;
 }
 
 #cabecera #tagline{
